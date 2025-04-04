@@ -3,3 +3,5 @@ run in cmd
 open cmd in location the main.py is located in
 run: py main.py
 follow the steps
+
+Discontinued until broken
